@@ -1,0 +1,15 @@
+pip~=23.2.1
+attrs~=25.1.0
+PySocks~=1.7.1
+google~=3.0.0
+protobuf~=5.29.4
+pillow~=11.1.0
+filelock~=3.17.0
+streamlit~=1.44.1
+langchain-google-genai~=2.1.2
+langchain-core~=0.3.61
+nltk~=3.9.1
+langchain-community~=0.3.24
+langchain~=0.3.25
+faiss-cpu
+pypdf
