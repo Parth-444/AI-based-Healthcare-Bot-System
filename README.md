@@ -35,12 +35,12 @@ This is an AI-powered medical chatbot that uses **Retrieval-Augmented Generation
 
 ## 📂 Project Structure (Example)
 
-├─ app.py # Streamlit app
-├─ data_loader.py # Loads and splits PDFs
-├─ embedding_generator.py # Generates/updates embeddings
-├─ llm_client.py # Handles LLM calls
-├─ embeddings/ # Folder where FAISS index is saved
-└─ README.md # This file
+- ├─ app.py # Streamlit app
+- ├─ data_loader.py # Loads and splits PDFs
+- ├─ embedding_generator.py # Generates/updates embeddings
+- ├─ llm_client.py # Handles LLM calls
+- ├─ embeddings/ # Folder where FAISS index is saved
+- └─ README.md # This file
 
 
 ---
